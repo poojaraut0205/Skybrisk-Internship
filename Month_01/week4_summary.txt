@@ -1,0 +1,8 @@
+Week 4 Summary – Data Visualization
+
+In Week 4 of my internship, I learned data visualization using Matplotlib.
+I created different plots such as scatter plots, histograms, and line plots
+to analyze relationships and data distribution.
+As part of the client project, I visualized relationships between features
+to form a basic dashboard.
+This week helped me understand how visual representation improves data analysis.
